@@ -12,7 +12,7 @@ const client = new Client({
   partials: [Partials.Channel]
 });
 
-const TOKEN = "SEU_TOKEN_AQUI";
+const TOKEN = "MTQ4OTcyMzI2NDc0NDgxNjcyMQ.G_iN0a.LKiQKEg4ByRSO6AgznLbr1EapoIyb0avSazRQw";
 
 client.commands = new Collection();
 
